@@ -3,7 +3,7 @@ name = "SigmaOS-libnotify"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "libnotify component"
+description = "SigmaOS SigmaOS-libnotify component"
 upstream = []
 
 [contract]
